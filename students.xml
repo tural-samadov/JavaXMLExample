@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Students>
+    <stuDent>
+        <namE>Tural</namE>
+        <surnamE>Samadov</surnamE>
+    </stuDent>
+    <stuDent>
+        <namE>Kamran</namE>
+        <surnamE>Mammadov</surnamE>
+    </stuDent>
+    <stuDent>
+        <namE>Vasif</namE>
+        <surnamE>Aliyev</surnamE>
+    </stuDent>
+    <stuDent>
+        <namE>Ilkin</namE>
+        <surnamE>Suleymanov</surnamE>
+    </stuDent>
+</Students>
